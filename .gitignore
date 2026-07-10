@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Vector Store (generated files)
+models/vector_store/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
